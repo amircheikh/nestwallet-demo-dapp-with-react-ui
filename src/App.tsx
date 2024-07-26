@@ -43,7 +43,18 @@ function App() {
                 bridgeUrl: "https://bridge.tonapi.io/bridge",
                 platforms: ["chrome", "safari", "ios", "android"],
                 universalLink: "https://app.binance.com/cedefi/ton-connect"
+              },
+              {
+                appName: "nestwallet",
+                name: "Nest Wallet",
+                imageUrl: "https://storage.googleapis.com/nestwallet-public-resource-bucket/logo/nest_logo_square.png",
+                aboutUrl: "https://www.nestwallet.xyz",
+                universalLink: "https://nestwallet.xyz/tonconnect",
+                bridgeUrl: "https://bridge.tonapi.io/bridge",
+                jsBridgeKey: "nestwallet",
+                platforms: ["ios", "android", "chrome"]
               }
+
             ]
           }}
           actionsConfiguration={{
