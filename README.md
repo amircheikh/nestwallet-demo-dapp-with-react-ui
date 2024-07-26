@@ -1,6 +1,6 @@
-# Demo dapp with @tonconnect/ui-react
+# Demo dapp for Nest Wallet with @tonconnect/ui-react
 
-Try it out https://ton-connect.github.io/demo-dapp-with-react-ui/
+Try it out https://amircheikh.github.io/demo-dapp-with-react-ui/
 
 ## Learn more about Ton Connect
 - https://docs.ton.org/develop/dapps/ton-connect/
